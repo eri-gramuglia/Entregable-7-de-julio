@@ -1,0 +1,26 @@
+.primeroytercero {
+  color: crimson;
+  text-align: left;
+}
+.segundoycuarto {
+  color: blueviolet;
+  font-style: italic;
+  text-align: right;
+}
+#conFondo {
+  background-color: deeppink;
+}
+body {
+  background-image: url(imagendemontaña.jfif);
+  background-size: cover;
+}
+h1 {
+  text-align: center;
+  color: fuchsia;
+  font-size: 4em;
+}
+h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 2em;
+}
